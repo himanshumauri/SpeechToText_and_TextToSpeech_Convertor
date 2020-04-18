@@ -3,3 +3,7 @@ This android app helps you in speech to text and text to speech conversion.It is
 
 
 <img src="https://user-images.githubusercontent.com/47247733/79639257-40ceb980-81a8-11ea-9181-74a20abfd55c.png" width=270 height=480>
+
+
+I am using android.speech.RecognizerIntent && android.speech.tts.TextToSpeech for speech to text and text to speech conversion 
+-Thank You
